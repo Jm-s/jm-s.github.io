@@ -41,5 +41,5 @@ ggplot(num, aes(Year, Counts)) + geom_col() + geom_text(aes(label=Counts), nudge
         labs(title="Result of a PubMed search using the keywards 'Neuromyelitis optica'", x="Year of publication")
 ```
 
-![plot of chunk unnamed-chunk-3](img/unnamed-chunk-3-1.png)
+![plot of chunk unnamed-chunk-3]({{ site.url }}/assets/RISmed_nmo.png)
 
