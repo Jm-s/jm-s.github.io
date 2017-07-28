@@ -84,7 +84,7 @@ ggplot (m_ond, aes(x=when, y=EDSS)) +
         xlab("")+labs(title="Optic Neuritis")+theme_bw(base_size=16)
 ```
 
-![plot of chunk unnamed-chunk-5](assets/unnamed-chunk-5-1.png)
+![plot of chunk unnamed-chunk-5]({{ site.url }}/assets/unnamed-chunk-5-1.png)
 
 ```r
 ggplot (m_tmd, aes(x=when, y=EDSS)) +
@@ -95,7 +95,7 @@ ggplot (m_tmd, aes(x=when, y=EDSS)) +
         xlab("")+ylab("")+labs(title="Transverse Myelitis")+theme_bw(base_size=16)
 ```
 
-![plot of chunk unnamed-chunk-6](assets/unnamed-chunk-6-1.png)
+![plot of chunk unnamed-chunk-6]({{ site.url }}/assets/unnamed-chunk-6-1.png)
 
 ```r
 ggplot (m_brd, aes(x=when, y=EDSS)) +
@@ -106,7 +106,7 @@ ggplot (m_brd, aes(x=when, y=EDSS)) +
         xlab("")+ylab("")+labs(title="Brain/Brainstem")+theme_bw(base_size=16)
 ```
 
-![plot of chunk unnamed-chunk-7](assets/unnamed-chunk-7-1.png)
+![plot of chunk unnamed-chunk-7]({{ site.url }}/assets/unnamed-chunk-7-1.png)
 
 ```r
 ggplot (m_cod, aes(x=when, y=EDSS)) +
@@ -117,7 +117,7 @@ ggplot (m_cod, aes(x=when, y=EDSS)) +
         xlab("")+ylab("")+labs(title="Combined")+theme_bw(base_size=16)
 ```
 
-![plot of chunk unnamed-chunk-8](assets/unnamed-chunk-8-1.png)
+![plot of chunk unnamed-chunk-8]({{ site.url }}/assets/unnamed-chunk-8-1.png)
 
 
 이제 이 내용들을 합쳐서 facet_grid 를 이용해서 그래프 마무리
@@ -136,4 +136,4 @@ ggplot(a2, aes(x=condition, y=EDSS, group=1)) +
         xlab("")+theme_bw(base_size=16)+facet_grid(~type, labeller = type_labeller)+theme(strip.text.x = element_text(size=16))
 ```
 
-![plot of chunk unnamed-chunk-9](assets/fig1_md.png)
+![plot of chunk unnamed-chunk-9]({{ site.url }}/assets/fig1_md.png)
