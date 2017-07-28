@@ -1,7 +1,6 @@
 ---
-title: 
+title: This blog is ... 
 ---
-### This blog is ...
 
 `R programming` 과 `통계학`을 공부하고 있습니다. 
 
