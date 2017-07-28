@@ -16,7 +16,7 @@ library(dplyr)
 library(tidyr)
 library(ggplot2)
 ```
-패키 로딩 ~  'Hadley Wickham' 성님 
+ 패키지 로딩 ~  'Hadley Wickham' 성님 
 
 ```r
 dat <- read.csv("initialAttack_AQP4_0627_off.csv")
