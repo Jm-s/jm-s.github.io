@@ -3,10 +3,10 @@ title: Graph example-pre_post change
 date: 2016-05-25 03:55 
 ---
 
-같은 대상자에서 전후 비교하는 그래프가 필요하게 되어, 작성하였던 것으로, 
-data.frame 수정이 필요한데, `gather`함수가 아주 유용하게 쓸 수 있는 것으로 보인다. 
-더 편하게 할 수 있는 방법이 있을 수도 있을 것 같은데, 잘 모르겠음. 
-`ggplot2`패키기의 `facet_grid`에 좀더 익숙해질 필요가 있겠음...
+같은 대상자에서 전후 비교하는 그래프.   
+자료 수정이 필요한데, `gather`함수가 아주 유용하게 쓰임
+더 편하게 할 수 있는 방법이 있을 수도 있을 것 같은데, 잘 모르겠다.   
+`ggplot2`패키지의 `facet_grid`에 좀더 익숙해질 필요가 있음. 
 
 
 ### **데이터 정리하기**
@@ -16,7 +16,7 @@ library(dplyr)
 library(tidyr)
 library(ggplot2)
 ```
-패키기 로딩 ~  'Hadley Wickham' 성님 
+패키 로딩 ~  'Hadley Wickham' 성님 
 
 ```r
 dat <- read.csv("initialAttack_AQP4_0627_off.csv")
