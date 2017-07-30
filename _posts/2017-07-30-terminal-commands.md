@@ -1,5 +1,5 @@
 ---
-title: terminal 명령어
+title: Terminal 명령어
 date: 2017-07-30 08:50
 ---
 
@@ -10,7 +10,7 @@ github page 때문이기도 한데, 맥에서 터미널 명령어를 쓸일이 �
 
 재미로 시작한건데, 공부할께 많아서 잘하는 짓인지 좀 의문스럽네   
 
-###명령어 list
+### 명령어 list
 
 
 `pwd` : path to working directory
@@ -44,22 +44,15 @@ github page 때문이기도 한데, 맥에서 터미널 명령어를 쓸일이 �
 
 `date`: print the date   
 
- 현재 깃허브 페이지 쓰면서 사용하는 명령어는    
+ 현재 깃허브 페이지 쓰면서 사용하는 명령어는  
+  
 ```
-git add .
+git add .   
+git commit -m "XXXXX"   
+git push origin master   
+git remote show   
+git remote set-url    
 ```   
-```
-git commit -m "XXXXX"
-```   
-``` 
-git push origin master
-```   
-```
-git remote show
-```   
-```
-git remote set-url 
-```
 
  
 
