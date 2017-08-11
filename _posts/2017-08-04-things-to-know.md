@@ -1,5 +1,5 @@
 ---
-title: thing to know
+title: Things to know
 date: 2017-08-04 20:23
 ---
 
@@ -19,11 +19,10 @@ date: 2017-08-04 20:23
 	4. graph - geographic plot
 
 * Python : 다음 언어로 생각하고 있는 것... 조금 해보긴했는데, 어디다 적용할지 아직...
-* 통계 공부 ... ㅜㅠ
+* 통계 공부
 * 기타
 	1. Github
-	2. terminal 좀 더 익숙
-	3. DB programming: mysql 같은거?
+	2. DB programming: mysql 같은거?
 * 좀 더 한다면 A.I 관련??
 
 
