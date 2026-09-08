@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ site.title | escape }}</title>
+    <meta name="description" content="{{ site.description | escape }}">
+    <link rel="icon" href="{{ site.baseurl }}/images/fav.png">
+    <link rel="stylesheet" href="{{ site.baseurl }}/stylesheets/landing.css">
+  </head>
+  <body>
+    <main class="landing">
+      <img class="eye" src="{{ site.baseurl }}/images/scribble.png" alt="JM eye logo" fetchpriority="high">
+      <h1>{{ site.title | escape }}</h1>
+      <p class="description">{{ site.description | escape }}</p>
+      <nav aria-label="Main navigation">
+        <a class="posts" href="{{ site.baseurl }}/posts/">Explore posts <span aria-hidden="true">↗</span></a>
+        <a class="about" href="{{ site.baseurl }}/about">About</a>
+      </nav>
+    </main>
+    <footer>R programming <span aria-hidden="true">/</span> Statistics</footer>
+  </body>
+</html>
