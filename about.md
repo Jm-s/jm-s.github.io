@@ -1,7 +1,7 @@
 ---
-title: This blog is ... 
+title: About
 ---
 
-`R programming` 과 `통계학`을 공부하는 블로그입니다.
+배우고 생각하고 경험한 것들을 천천히 기록하는, 나만의 작은 공간입니다.
 
   > *"여가의 현명한 이용은 문명과 교육에 의해 가능하다" - Bertrand Russell -*
