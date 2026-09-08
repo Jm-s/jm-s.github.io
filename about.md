@@ -2,6 +2,6 @@
 title: About
 ---
 
-배우고 생각하고 경험한 것들을 천천히 기록하는, 나만의 작은 공간입니다.
+A little space of my own
 
   > *"여가의 현명한 이용은 문명과 교육에 의해 가능하다" - Bertrand Russell -*
