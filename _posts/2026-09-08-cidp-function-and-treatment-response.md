@@ -1,6 +1,6 @@
 ---
 title: CIDP beyond relapse prevention — function, disease activity and treatment response
-date: 2026-09-08
+date: 2026-09-09T00:47:20+09:00
 ---
 
 In CIDP, treatment response can mean several different things: preventing deterioration, recovering strength, improving daily function, or reducing ongoing nerve injury. These outcomes are related, but they are not interchangeable.

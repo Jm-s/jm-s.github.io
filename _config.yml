@@ -2,6 +2,7 @@
 title:            "JM"
 description:      "A little space of my own"
 url:              https://jm-s.github.io # Site url, without a slash at the end.
+timezone:         Asia/Seoul
 signoff:          "JM" # Your name
 facebook_appid:   # APP ID for like button, remove from /_includes/share.html if unwanted.
 google_analytics: # Set tracking, remove from /javascripts/basic.js if unwanted.

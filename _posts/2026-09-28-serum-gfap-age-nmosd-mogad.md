@@ -1,6 +1,6 @@
 ---
 title: 혈청 GFAP와 나이로 NMOSD와 MOGAD를 구분할 수 있을까?
-date: 2026-09-28
+date: 2026-09-28T09:36:21+09:00
 ---
 
 **발작 후 90일 이내의 혈청 GFAP와 나이를 조합하면 AQP4-IgG 양성 NMOSD와 MOGAD를 잘 구분했다. 하지만 double-seronegative NMOSD의 정체를 규명하거나, 항체검사를 대체한 연구는 아니다.**

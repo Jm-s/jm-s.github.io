@@ -1,5 +1,6 @@
 <p class="mt4">
   {{ site.signoff }}
-  <span class="silver">{{ page.date | date: "at %H:%M" }}</span>
+  {% assign post_time = page.date | date: "%H:%M" %}
+  {% unless post_time == "00:00" %}<span class="silver">at {{ post_time }}</span>{% endunless %}
 </p>
 <img src="{{ site.url }}/images/scribble3.png" alt="scribble" />

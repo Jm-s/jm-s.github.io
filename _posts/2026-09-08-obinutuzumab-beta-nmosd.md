@@ -1,6 +1,6 @@
 ---
 title: Obinutuzumab beta in NMOSD — results and mechanism
-date: 2026-09-08
+date: 2026-09-08T19:05:40+09:00
 ---
 
 Obinutuzumab beta (MIL62) strengthens an established treatment strategy in AQP4-positive NMOSD: **CD20-directed B-cell depletion**.

@@ -1,6 +1,6 @@
 ---
 title: Double-seronegative NMOSD — how different is its immune biology?
-date: 2026-09-09
+date: 2026-09-09T13:21:18+09:00
 ---
 
 **Yes—direct comparative studies report biological differences from AQP4-positive NMOSD and, in proteomic analyses, from MOGAD. However, they do not yet establish one uniform double-seronegative disease.**

@@ -1,6 +1,6 @@
 ---
 title: NMOSD genetic risk — C4, HLA and STAT4
-date: 2026-09-08
+date: 2026-09-08T15:44:25+09:00
 ---
 
 A 2026 *Lancet Neurology* GWAS examined 1,573 AQP4-positive NMOSD cases and 1,260 controls.

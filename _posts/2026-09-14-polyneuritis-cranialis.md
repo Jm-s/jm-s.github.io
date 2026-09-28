@@ -1,6 +1,6 @@
 ---
 title: Polyneuritis cranialis — 사지마비 없이 나타나는 GBS?
-date: 2026-09-14
+date: 2026-09-14T12:18:55+09:00
 ---
 
 **안구운동장애와 인두근 약화가 함께 있지만 사지 근력저하와 실조는 없다면?** Wakerley와 Yuki는 이를 GBS의 **oculopharyngeal subtype**으로 정리했다.[1]
