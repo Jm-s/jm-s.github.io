@@ -52,4 +52,3 @@ Interpret MOGAD MRI longitudinally. The meaning of a scan depends on when and wh
 
 1. Flanagan EP, Banwell BL, Cacciaguerra L, et al. MRI characteristics of myelin oligodendrocyte glycoprotein antibody-associated disease: a review. *JAMA Neurol.* Published online September 28, 2026. doi:[10.1001/jamaneurol.2026.3196](https://doi.org/10.1001/jamaneurol.2026.3196).
 
-[This week's NMOSD search and selection](/posts/nmosd-weekly-2026-10-01)
