@@ -1,6 +1,6 @@
 ---
 title: "MOGAD MRI: Why Lesion Timing Matters"
-date: 2026-10-01T10:20:02+09:00
+date: 2026-10-01T10:16:22+09:00
 ---
 
 *Abstract-based review. The full text and original figures were not available for verification. This is a MOGAD-focused article retrieved by the NMOSD keyword because it addresses differential diagnosis.*
