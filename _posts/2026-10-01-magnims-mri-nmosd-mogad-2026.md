@@ -53,4 +53,3 @@ The framework organizes MRI around clinical purpose and disease phase. Consult t
 
 1. Cortese R, Hacohen Y, Arrambide G, et al. Use of MRI in neuromyelitis optica spectrum disorder and myelin oligodendrocyte glycoprotein antibody-associated disease—MAGNIMS consensus recommendations. *Nat Rev Neurol.* Published online September 28, 2026. doi:[10.1038/s41582-026-01271-2](https://doi.org/10.1038/s41582-026-01271-2).
 
-[This week's NMOSD search and selection](/posts/nmosd-weekly-2026-10-01)
