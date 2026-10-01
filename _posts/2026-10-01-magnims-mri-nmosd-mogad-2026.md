@@ -1,6 +1,6 @@
 ---
 title: "MRI in NMOSD and MOGAD: The 2026 MAGNIMS Framework"
-date: 2026-10-01T10:20:01+09:00
+date: 2026-10-01T10:16:22+09:00
 ---
 
 *Abstract-based review. Full text, protocol tables and supplementary material were not available for verification.*
